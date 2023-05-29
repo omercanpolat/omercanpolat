@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omercanpolat&label=Profile%20views&color=0e75b6&style=flat" alt="omercanpolat" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Python, Django, SQL, PostgreSQl, MySQL.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Python, Django, SQL, PostgreSQL, MySQL.**
 
 - 📫 How to reach me **omercanpolat@yahoo.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/omer-canpolat-mba-0131ab252/](https://www.linkedin.com/in/omer-canpolat-mba-0131ab252/)
 
-- ⚡ Fun fact **I am an Aikido Senpai, a DIY Car Mechanic, a cyclist, a photographer, an enhtusiast of traditional wet shaver, a wind surfer, a skydiver, and a jet fighter pilot etc. Maybe the most interesting man in the world. :)**
+- ⚡ Fun fact **I am an Aikido Senpai, a DIY Car Mechanic, a cyclist, a photographer, an enhtusiast of traditional wet shaving, a wind surfer, a skydiver, and a jet fighter pilot etc. Maybe the most interesting man in the world. :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
