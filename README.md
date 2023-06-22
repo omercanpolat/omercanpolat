@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omercanpolat&label=Profile%20views&color=0e75b6&style=flat" alt="omercanpolat" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, Python, Django, SQL, PostgreSQL, MySQL.**
+- 🌱 I’m currently woking with **HTML, CSS, JavaScript, React, Python, Django, SQL, PostgreSQL, MySQL.**
 
 - 📫 How to reach me **omercanpolat@yahoo.com**
 
