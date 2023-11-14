@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/omer-canpolat-mba-0131ab252/](https://www.linkedin.com/in/omer-canpolat-mba-0131ab252/)
 
-- A stock app project that I deploy on render.com, youcan check it out https://stock-frontend-app.onrender.com/
+- A fullstack stock control project that I deploy on render.com, you can check it out here https://stock-frontend-app.onrender.com/
       -    For Stock App log in-->   Email: admin@site.com password: aA?123456
 
 - ⚡ Fun fact **I am an Aikido Senpai, a DIY Car Mechanic, a cyclist, a photographer, an enhtusiast of traditional wet shaving, a wind surfer, a skydiver, and a jet fighter pilot etc. Maybe the most interesting man in the world. :)**
