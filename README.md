@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/omer-canpolat-mba-0131ab252/](https://www.linkedin.com/in/omer-canpolat-mba-0131ab252/)
 
+- A stock app project that I deploy on render.com, youcan check it out https://stock-frontend-app.onrender.com/
+
 - ⚡ Fun fact **I am an Aikido Senpai, a DIY Car Mechanic, a cyclist, a photographer, an enhtusiast of traditional wet shaving, a wind surfer, a skydiver, and a jet fighter pilot etc. Maybe the most interesting man in the world. :)**
 
 <h3 align="left">Connect with me:</h3>
