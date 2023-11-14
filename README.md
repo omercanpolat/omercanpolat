@@ -12,7 +12,7 @@
 - A fullstack stock control project that I deploy on render.com, you can check it out here https://stock-frontend-app.onrender.com/
       -    For Stock App log in-->   Email: admin@site.com password: aA?123456
 
-- ⚡ Fun fact **I am an Aikido Senpai, a DIY Car Mechanic, a cyclist, a photographer, an enhtusiast of traditional wet shaving, a wind surfer, a skydiver, and a jet fighter pilot etc. Maybe the most interesting man in the world. :)**
+- ⚡ Fun fact **I am an Aikido Senpai, a DIY Car Mechanic, a cyclist, a nature photographer and a jet fighter pilot etc. Maybe the most interesting man in the world. :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
