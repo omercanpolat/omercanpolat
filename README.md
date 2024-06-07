@@ -8,9 +8,11 @@
 - 📫 How to reach me **omercanpolat@yahoo.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/omer-canpolat-mba-0131ab252/](https://www.linkedin.com/in/omer-canpolat-mba-0131ab252/)
-
-- A fullstack stock control project that I deploy on render.com, you can check it out here https://stock-frontend-app.onrender.com/
-      -    For Stock App log in-->   Email: admin@site.com password: aA?123456
+  
+- A fullstack news website with PayTR payment integration I created and deploy on MS Azure , you can check it out here https://startupteknoloji.com/
+- A fullstack website with Django and React integration I worked on , you can check it out here https://startupteknoloji.com/
+- 
+      
 
 - ⚡ Fun fact **I am an Aikido Senpai, a DIY Car Mechanic, a cyclist, a nature photographer and a jet fighter pilot etc. Maybe the most interesting man in the world. :)**
 
