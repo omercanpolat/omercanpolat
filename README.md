@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **omercanpolat@yahoo.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/omer-canpolat-mba-0131ab252/](https://www.linkedin.com/in/omer-canpolat-mba-0131ab252/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/omer-canpolat-mba-0131ab252/](https://www.linkedin.com/in/omer-canpolat-mba/)
   
 - A fullstack news website with PayTR payment integration I created and deploy on MS Azure , you can check it out here https://startupteknoloji.com/
 - A fullstack website project with Django and React integration I worked on, you can check it out here https://www.pergolapro.us/
