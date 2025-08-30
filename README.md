@@ -12,6 +12,7 @@
 - A fullstack news website with PayTR payment integration I created and deploy on MS Azure , you can check it out here https://startupteknoloji.com/
 - A fullstack website project with Django and React integration I worked on, you can check it out here https://www.pergolapro.us/
 - A fullstack stockapp project with Django and React integration I deploy on render.com, you can check it out here https://stock-frontend-app.onrender.com/
+- A fullstack project with Django and React integration I deploy on MS Azure, you can check it out here https://www.musavironline.com/
 
 - ⚡ Fun fact **I am an Aikido Senpai, a DIY Car Mechanic, a cyclist, a nature photographer and a jet fighter pilot etc. Maybe the most interesting man in the world. :)**
 
